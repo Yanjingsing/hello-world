@@ -1,5 +1,4 @@
 # hello-world
 My 1st.
 Hello!
-
-I'm a nice boy.
+This is my repositoru.
